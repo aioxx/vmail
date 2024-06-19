@@ -8,7 +8,7 @@
   "dependencies": {
     "@scaleway/random-name": "^4.0.2",
     "database": "workspace:^",
-    "hono": "^3.12.4",
+    "hono": "^4.4.6",
     "jose": "^5.2.0"
   },
   "devDependencies": {
